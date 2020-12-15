@@ -1,3 +1,4 @@
 require 'bundler/setup'
 Bundler.require
-require_all 'app'
+# require_rel '../app'
+require_all '../app'
